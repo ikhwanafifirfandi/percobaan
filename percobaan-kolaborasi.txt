@@ -11,3 +11,4 @@ Berikut adalah rencanya yang akan kita lakukan dalam project ini:
 5. Ujicoba
 6. Editing
 7. Finalisasi
+8. lulus program DTS
